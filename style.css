@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+.center{
+    text-align:center;
+}
+.blue{
+    color: rgb(49, 151, 151);
+}
+.font-sizeh{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'Quicksand', sans-serif;
+
+}
+.font-thai{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Maitree', serif;
+}
+.font-size{
+    font-size: 18px;
+}
+.font-header{
+    font-size: 50px;
+    font-family: 'Varela Round', sans-serif;
+}
+.black{
+    color: black
+}
+.font-creat{
+    font-family: 'Quicksand', sans-serif;
+    color: #747373;
+}
+.round2 {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    background: rgb(252, 252, 252);
+    background-clip: border-box;  
+  }
+.round{
+    border: 2px solid red;
+    border-radius: 8px;
+    background: rgb(255, 158, 158);
+    background-clip: border-box;
+}
+.fonts{
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+}
+.instagram{
+    color: rgb(228, 64, 95);
+}
+.freecolor{
+    color: rgb(212, 152, 23);
+}
+.facebook{
+    color: rgb(59, 89, 152);
+}
+.line{
+    color: #00c300;
+}
+#cen{
+    text-align: center;
+}
